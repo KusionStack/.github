@@ -1,5 +1,9 @@
 # KusionStack CLA
 
+![](CLA.png)
+
+---
+
 **Ant Group Individual Contributor License Agreement**
 
 ```
