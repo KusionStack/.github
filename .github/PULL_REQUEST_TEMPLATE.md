@@ -18,8 +18,8 @@ Note:
 
 #### 1. Does this PR affect any open issues?(Y/N) and add issue references (e.g. "fix #123", "re #123".):
 
-- [] N
-- [] Y 
+- [ ] N
+- [ ] Y 
 
 <!-- You can add issue references here. 
     e.g. 
@@ -54,8 +54,8 @@ Note:
 
 #### 4. Are there any breaking changes?(Y/N) and describe the breaking changes(e.g. more details, motivations or doc link):
 
-- [] N
-- [] Y 
+- [ ] N
+- [ ] Y 
 
 <!-- You can add more details here.
     e.g. 
