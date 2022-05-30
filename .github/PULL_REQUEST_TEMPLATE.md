@@ -1,54 +1,84 @@
-<!--
+<!-- Thank you for contributing to KusionStack!
 
-Thank you for contributing to KusionStack!
+Note: 
 
-PR Title Format:
-1. pkg [, pkg2, pkg3]: what's changed
-2. *: what's changed
+1. With pull requests:
 
+    - Open your pull request against "main"
+    - Your pull request should have no more than two commits, if not you should squash them.
+    - It should pass all tests in the available continuous integration systems such as GitHub Actions.
+    - You should add/modify tests to cover your proposed code changes.
+    - If your pull request contains a new feature, please document it on the README.
+
+2. Please create an issue first to describe the problem.
+
+    We recommend that link the issue with the PR in the following question.
+    For more info, check https://kusionstack.io/docs/governance/contribute/
 -->
 
-### What problem does this PR solve?
-<!--
+#### 1. Does this PR affect any open issues?(Y/N) and add issue references (e.g. "fix #123", "re #123".):
 
-Please create an issue first to describe the problem.
+- [] N
+- [] Y 
 
-There MUST be one line starting with "Issue Number:  " and 
-linking the relevant issues via the "close" or "ref".
-
-For more info, check https://kusionstack.io/docs/governance/contribute/
-
+<!-- You can add issue references here. 
+    e.g. 
+    fix #123, re #123, 
+    fix https://github.com/XXX/issues/44
 -->
 
-Issue Number: close #issue-id
+#### 2. What is the scope of this PR (e.g. component or file name):
 
-Problem Summary:
+<!-- You can add the scope of this change here. 
+    e.g. 
+    /src/server/core.rs,
+    kusionstack/KCLVM/kclvm-parser 
+-->
 
-### What is changed and how it works?
+#### 3. Provide a description of the PR(e.g. more details, effects, motivations or doc link):
 
-### Check List
-
-Tests <!-- At least one of them must be included. -->
-
-- [ ] Unit test
-- [ ] Integration test
-- [ ] Manual test (add detailed scripts or steps below)
-- [ ] No code
-
-Side effects
-
-- [ ] Performance regression: Consumes more CPU
-- [ ] Performance regression: Consumes more Memory
-- [ ] Breaking backward compatibility
-
-Documentation
-
+<!-- You can choose a brief description here -->
 - [ ] Affects user behaviors
 - [ ] Contains syntax changes
 - [ ] Contains variable changes
 - [ ] Contains experimental features
+- [ ] Performance regression: Consumes more CPU
+- [ ] Performance regression: Consumes more Memory
+- [ ] Other
 
-### Release note
+<!-- You can add more details here.
+    e.g. 
+    Call method "XXXX" to ..... in order to ....,
+    More details: https://XXXX.com/doc......
+-->
+
+#### 4. Are there any breaking changes?(Y/N) and describe the breaking changes(e.g. more details, motivations or doc link):
+
+- [] N
+- [] Y 
+
+<!-- You can add more details here.
+    e.g. 
+    Calling method "XXXX" will cause the "XXXX", "XXXX" modules to be affected.
+    More details: https://XXXX.com/doc......
+-->
+
+#### 5. Are there test cases for these changes?(Y/N) select and add more details, references or doc links:
+
+<!-- You can choose a brief description here -->
+- [ ] Unit test
+- [ ] Integration test
+- [ ] Manual test (add detailed scripts or steps below)
+- [ ] Other
+
+<!-- You can add more details here.
+e.g. 
+The test case in XXXX is used to .....
+test cases in /src/tests/XXXXX
+test cases https://github.com/XXX/pull/44
+-->
+
+#### 6. Release note
 
 <!-- compatibility change, improvement, bugfix, and new feature need a release note -->
 
