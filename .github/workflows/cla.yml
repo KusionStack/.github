@@ -21,6 +21,7 @@ jobs:
           path-to-document: 'https://github.com/KusionStack/.github/blob/main/CLA.md' # e.g. a CLA or a DCO document
 
           # branch should not be protected
+          lock-pullrequest-aftermerge: True
           path-to-signatures: 'signatures/version1/cla.json'
           remote-organization-name: KusionStack
           remote-repository-name: cla.db
