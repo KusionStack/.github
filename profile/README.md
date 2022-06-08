@@ -1,4 +1,4 @@
-![image](kusionstack.png)
+![image](https://raw.githubusercontent.com/KusionStack/.github/main/profile/kusionstack.png)
 ## Welcome to KusionStack
 
 KusionStack is an open source project and community working to build a
