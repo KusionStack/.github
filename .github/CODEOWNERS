@@ -1,0 +1,9 @@
+# Require review from domain experts when the PR modified significant config files.
+
+*.go @KusionStack/go-reviewer
+*.proto @KusionStack/go-reviewer
+
+*.rs @KusionStack/rust-reviewer
+*.toml @KusionStack/rust-reviewer
+
+*.md @KusionStack/doc-reviewer
