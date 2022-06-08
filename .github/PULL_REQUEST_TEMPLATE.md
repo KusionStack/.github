@@ -68,6 +68,7 @@ Note:
 <!-- You can choose a brief description here -->
 - [ ] Unit test
 - [ ] Integration test
+- [ ] Benchmark (add benchmark stats below)
 - [ ] Manual test (add detailed scripts or steps below)
 - [ ] Other
 
@@ -76,6 +77,7 @@ e.g.
 The test case in XXXX is used to .....
 test cases in /src/tests/XXXXX
 test cases https://github.com/XXX/pull/44
+benchmark stats: time XXX ms
 -->
 
 #### 6. Release note
