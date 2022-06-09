@@ -9,8 +9,9 @@ Unified Programmable Configuration Tech Stack. Home page https://kusionstack.io 
 ### Community
 
 - [community](https://github.com/KusionStack/community) is KusionStack user and developer Community 👋
-- [Community Roles](https://github.com/KusionStack/community/blob/main/ROLES.md) - describes the roles individuals can assume within the KusionStack community.
-- [Working Groups](https://github.com/KusionStack/community/blob/main/WORKING-GROUPS.md) - to enhance community transparency and collaboration among community members, KusionStack created a series of  working groups.
+  - [Community Roles](https://github.com/KusionStack/community/blob/main/ROLES.md) - describes the roles individuals can assume within the KusionStack community.
+  - [Working Groups](https://github.com/KusionStack/community/blob/main/WORKING-GROUPS.md) - to enhance community transparency and collaboration among community members, KusionStack created a series of  working groups.
+  - [#️⃣Meeting notes](https://github.com/KusionStack/community/discussions/categories/meeting) Thursday 8:00 PM CST(Beijing 北京时间周四晚 8:00) ([钉钉(DingTalk ID 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858))
 
 ### Kusion
 
@@ -33,7 +34,7 @@ Unified Programmable Configuration Tech Stack. Home page https://kusionstack.io 
 ### Documents
 
 - [kusionstack.io](https://github.com/KusionStack/kusionstack.io) is [KusionStack site](https://kusionstack.io) source code.
-- [KusionStack 实战](https://github.com/KusionStack/kusion-in-action-book) kusion in action book ebook
+- [《KusionStack 实战》](https://github.com/KusionStack/kusion-in-action-book) kusion in action book ebook
 
 ## How to contribute
 
@@ -49,7 +50,7 @@ First off, thanks for taking the time to contribute! Contributions are what make
 Reach out to the developer community at one of the following places:
 
 - [KusionStack Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg)
-- [DingTalk(钉钉)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)
+- [DingTalk(钉钉号 42753001)](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858)
 
 
 ## Links
