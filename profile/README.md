@@ -4,3 +4,9 @@
 
 KusionStack is an open source project and community working to build a
 Unified Programmable Configuration Tech Stack.
+
+- [Kusion](https://github.com/KusionStack/kusion): A compile-to-cloud technology stack with tool chains and engine.
+- [KCLVM](https://github.com/KusionStack/KCLVM): A constraint-based record & functional language mainly used in configuration and policy scenarios.
+
+See the [community](https://github.com/KusionStack/community) for ways to join us.
+
