@@ -1,13 +1,8 @@
-## Hey, this is KusionStack community 👋
+## Hey, this is the KusionStack community. Let's evolve your Internal Developer Platform with KusionStack 👋
 
-| 👩‍💻 [Quick Start](https://kusionstack.io/docs/user_docs/getting-started/usecase) | 📚 [Documentation](https://kusionstack.io) | 💻 [YouTube](https://www.youtube.com/channel/UCC1ac3eWbMZ6oMjSLvOisxg/featured), [Bilibili](https://space.bilibili.com/228717294/channel/seriesdetail?sid=2397933) | 🙌  [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg), [DingTalk](https://h5.dingtalk.com/circle/healthCheckin.html?cbdbhh=qwertyuiop&dtaction=os&4ebe6=d3d59&corpId=ding707e3346ab188ded2040d0a6270bd858) | #️⃣ [Meeting](https://github.com/KusionStack/community/discussions/categories/meeting) | 👀 [Blog](https://kusionstack.io/blog) |
+| 👩‍💻 [Quick Start](https://kusionstack.io/docs/user_docs/getting-started/usecases/deliver-first-project) | 📚 [Website](https://kusionstack.io), [Blog](https://kusionstack.io/blog)| 💻 [YouTube](https://www.youtube.com/channel/UCC1ac3eWbMZ6oMjSLvOisxg/featured), [Bilibili](https://space.bilibili.com/228717294/channel/seriesdetail?sid=2397933)  | #️⃣ [Meeting](https://github.com/KusionStack/community/discussions/categories/meeting)  |🙌  [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg), DingTalk: 42753001
 
-KusionStack is an open source project and community working to build a
-unified programmable configuration techstack to deliver modern app in **'platform as code'** and **'infra as code'** approach.
+KusionStack is an open-source project and community working to build a more efficient and secure enterprise-grade Internal Developer Platform in Kubernetes and Clouds
 
-- [Kusion](https://github.com/KusionStack/kusion): The engine to deliver intentions to clouds.
-- [kcl](https://github.com/KusionStack/kcl): A constraint-based record & functional language mainly used in configuration and policy scenarios.
+- [Kusion](https://github.com/KusionStack/kusion): The engine to deliver intentions to Kubernetes and clouds.
 - [Konfig](https://github.com/KusionStack/konfig): A mono-codespace for programmable app configuration and shared schemas.
-
-See the [community](https://github.com/KusionStack/community) for ways to join us.
-
