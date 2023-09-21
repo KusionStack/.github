@@ -5,4 +5,4 @@
 KusionStack is an open-source project and community working to build a more efficient and secure enterprise-grade Internal Developer Platform in Kubernetes and Clouds
 
 - [Kusion](https://github.com/KusionStack/kusion): The platform engineering engine of KusionStack to deliver intentions to Kubernetes and clouds.
-- [Konfig](https://github.com/KusionStack/konfig): A mono-codespace for programmable app configuration and shared schemas.
+- [Catalog](https://github.com/KusionStack/catalog): Catalog of shared Kusion Models and Generators.
