@@ -22,4 +22,4 @@ Empower organizations to build self-service, collaborative, reliable and sustain
 
 ## 📜 Our Blog
 
-We regularly post about technical practice and thinking we have solved and provide updates about KusionStack. Get a first glympse [@ medium](https://medium.com/@kusionstack).
+We regularly post about technical practice and thinking we have solved and provide updates about KusionStack. Get a first glympse [@ blog.kusionstack.io](https://blog.kusionstack.io/).
