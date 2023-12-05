@@ -1,6 +1,6 @@
 ## Welcome to KusionStack! 👋 👋 👋
 
-| 👩‍💻 [Quick Start](https://kusionstack.io/docs/user_docs/getting-started/usecases/deliver-first-project) | 📚 [Website](https://kusionstack.io) | 💻 [YouTube](https://www.youtube.com/channel/UCC1ac3eWbMZ6oMjSLvOisxg/featured), [Bilibili](https://space.bilibili.com/228717294/channel/seriesdetail?sid=2397933)  | #️⃣ [Meeting](https://github.com/KusionStack/community/discussions/categories/meeting)  | 🙌  [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg), DingTalk: 42753001
+| 👩‍💻 [Quick Start](https://www.kusionstack.io/docs/user_docs/getting-started/deliver-the-wordpress-application-on-kubernetes/) | 📚 [Website](https://kusionstack.io) | 💻 [YouTube](https://www.youtube.com/channel/UCC1ac3eWbMZ6oMjSLvOisxg/featured), [Bilibili](https://space.bilibili.com/228717294/channel/seriesdetail?sid=2397933)  | #️⃣ [Meeting](https://github.com/KusionStack/community/discussions/categories/meeting)  | 🙌  [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-19lqcc3a9-_kTNwagaT5qwBE~my5Lnxg), DingTalk: 42753001
 
 We are a team of platform engineers who firmly believe the [Platform Engineering](https://platformengineering.org/) accelerates innovation. Dynamic Configuration Management, Infrastructure Orchestration and Release Management are the core components of platform, and we are building open source toolkits to help organizations unlock the power of Platform Engineering.
 
