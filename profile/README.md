@@ -16,6 +16,12 @@ Inspired by the phrase **Fusion on Kubernetes**, Kusion aims to help application
 
 By keeping more operation works finished in the Kubernetes layer, KusionStack Operating reduces complexity when interacting with Kubernetes and enhances convenience for platform developers.
 
+## 🚀 Karpor
+
+[Karpor](https://github.com/KusionStack/karpor) is a Modern **Kubernetes Explorer** focusing on **🔍 Search, 💡 Insight and 🤖 Intelligence**. 
+
+It has keywords such as self-host, non-invasive, read-only, secure compliance, multi-cloud/multi-cluster support, custom logical view, and can serve as a **Kubernetes Data Plane** to reduce the cost of discovering and understanding kubernetes resources.
+
 ## 🔮 Our Mission
 
 Empower organizations to build self-service, collaborative, reliable, and sustainable [Internal Developer Platform](https://internaldeveloperplatform.org/) at any scale.
