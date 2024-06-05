@@ -18,9 +18,10 @@ By keeping more operation works finished in the Kubernetes layer, KusionStack Op
 
 ## 🚀 Karpor
 
-[Karpor](https://github.com/KusionStack/karpor) is a Modern **Kubernetes Explorer** focusing on **🔍 Search, 💡 Insight and 🤖 Intelligence**. 
+[Karpor](https://github.com/KusionStack/karpor) is Intelligence for Kubernetes. It brings advanced **🔍 Search**, **💡 Insight** and **✨ AI** to Kubernetes. It is essentially a **Kubernetes Explorer/Kubernetes Dashboard**. With Karpor, you can gain crucial visibility into your Kubernetes clusters across any clouds and empower developers to ship faster.
 
-It has keywords such as self-host, non-invasive, read-only, secure compliance, multi-cloud/multi-cluster support, custom logical view, and can serve as a **Kubernetes Data Plane** to reduce the cost of discovering and understanding kubernetes resources.
+We hope to become a **small and beautiful, vendor-neutral, developer-friendly, community-driven** project! 🚀
+
 
 ## 🔮 Our Mission
 
