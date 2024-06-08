@@ -10,17 +10,19 @@ We are a team of platform engineers who firmly believe the [Platform Engineering
 
 Inspired by the phrase **Fusion on Kubernetes**, Kusion aims to help application and platform developers develop and deliver in a self-serviceable, fast, reliable, and collaborative way.
 
-## ⚙️ Operating
+
+## 🚀 Karpor
+
+[Karpor](https://github.com/KusionStack/karpor) is Intelligence for Kubernetes. It brings advanced **🔍 Search**, **💡 Insight** and **✨ AI** to Kubernetes. With Karpor, you can gain crucial visibility into your Kubernetes clusters across any clouds and empower developers to ship faster.
+
+As world's most promising Kubernetes Explorer/Kubernetes Dashboard, our end goal is to build a **small and beautiful, vendor-neutral, developer-friendly, community-driven** project! 
+
+
+## ⚙️ Kooperator
 
 [KusionStack Operating](https://github.com/KusionStack/operating) consists of workloads and operators built on Kubernetes Custom Resource Definitions, with a primary aim of bridging the gap between the platform and Kubernetes.
 
 By keeping more operation works finished in the Kubernetes layer, KusionStack Operating reduces complexity when interacting with Kubernetes and enhances convenience for platform developers.
-
-## 🚀 Karpor
-
-[Karpor](https://github.com/KusionStack/karpor) is Intelligence for Kubernetes. It brings advanced **🔍 Search**, **💡 Insight** and **✨ AI** to Kubernetes. It is essentially a **Kubernetes Explorer/Kubernetes Dashboard**. With Karpor, you can gain crucial visibility into your Kubernetes clusters across any clouds and empower developers to ship faster.
-
-We hope to become a **small and beautiful, vendor-neutral, developer-friendly, community-driven** project! 🚀
 
 
 ## 🔮 Our Mission
