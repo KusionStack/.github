@@ -1,14 +1,14 @@
 ## Welcome to KusionStack! 👋 👋 👋
 
-| 👩‍💻 [Quick Start](https://www.kusionstack.io/docs/kusion/getting-started/deliver-wordpress) | 📚 [Website](https://kusionstack.io) | 💻 [YouTube](https://www.youtube.com/channel/UCC1ac3eWbMZ6oMjSLvOisxg/featured), [Bilibili](https://space.bilibili.com/228717294/channel/seriesdetail?sid=2397933)  | #️⃣ [Meeting](https://github.com/orgs/KusionStack/discussions)  | 🙌  [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-2drafxksz-VzCZZwlraHP4xpPeh_g8lg), DingTalk: 42753001
+| 📚 [Website](https://kusionstack.io) | 📝 [Twitter](https://twitter.com/KusionStack) | #️⃣ [Meeting](https://github.com/orgs/KusionStack/discussions)  | 🙌  [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-2drafxksz-VzCZZwlraHP4xpPeh_g8lg), DingTalk: 42753001
 
 We are a team of platform engineers who firmly believe the [Platform Engineering](https://platformengineering.org/) accelerates innovation. Dynamic Configuration Management, Infrastructure Orchestration, and Release Management are the core components of the platform, and we are building open-source toolkits to help organizations unlock the power of Platform Engineering.
 
-## 💻 Kusion
+## 🔗 Kusion
 
-[Kusion](https://github.com/KusionStack/kusion) is a modern application delivery and management toolchain that enables developers to specify desired intent in a declarative way and then use consistent workflow to drive continuous deployment through the application lifecycle. 
+[Kusion](https://github.com/KusionStack/kusion) is an intent-driven [Platform Orchestrator](https://internaldeveloperplatform.org/platform-orchestrators/), which sits at the core of an [Internal Developer Platform](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/). With Kusion you can enhance self-service developer experience, by giving developers the ability to deploy applications with all dependencies to all environments, with a single application specification - [AppConfiguration](https://www.kusionstack.io/docs/next/concepts/app-configuration).
 
-Inspired by the phrase **Fusion on Kubernetes**, Kusion aims to help application and platform developers develop and deliver in a self-serviceable, fast, reliable, and collaborative way.
+Inspired by the phrase **Fusion on Kubernetes**, Kusion aims to simplify the process of deploying applications into your infrastructure and helps platform teams standardize the whole deployment process.
 
 
 ## 🚀 Karpor
