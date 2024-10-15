@@ -12,6 +12,13 @@ If you are contributing to this project as an individual, please review and sign
 
 If you are contributing on behalf of an organization, please review and sign the [Corporate Contributor License Agreement (CCLA)](https://github.com/cncf/cla/blob/main/corporate-cla.pdf).
 
+## Signing the CLA
+
+You can sign the CLA by posting a Pull Request Comment in the below format: 
+```
+I have read the CLA Document and I hereby sign the CLA
+```
+
 ## Contact Information
 
 If you have any questions regarding this CLA or the contribution process, please don’t hesitate to reach out to us at [kusionstack@gmail.com](mailto:kusionstack@gmail.com).
