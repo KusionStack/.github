@@ -2,7 +2,7 @@
 
 | [Website](https://kusionstack.io) | [Twitter](https://twitter.com/KusionStack) | [Meeting](https://github.com/orgs/KusionStack/discussions)  | [Slack](https://join.slack.com/t/kusionstack/shared_invite/zt-2drafxksz-VzCZZwlraHP4xpPeh_g8lg), DingTalk: 42753001
 
-We are a team of platform engineers who firmly believe the [Platform Engineering](https://platformengineering.org/) accelerates innovation. Dynamic Configuration Management, Infrastructure Orchestration, and Release Management are the core components of the platform, and we are building open-source toolkits to help organizations unlock the power of Platform Engineering.
+We are a team of platform engineers who firmly believe the [Platform Engineering](https://tag-app-delivery.cncf.io/whitepapers/platforms/) accelerates innovation. Dynamic Configuration Management, Infrastructure Orchestration, and Release Management are the core components of the platform, and we are building open-source toolkits to help organizations unlock the power of Platform Engineering.
 
 ## Karpor
 
