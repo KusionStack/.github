@@ -14,7 +14,7 @@ As world's most promising Kubernetes Explorer/Kubernetes Dashboard, our end goal
 
 [Kusion](https://github.com/KusionStack/kusion) is an intent-driven [Platform Orchestrator](https://internaldeveloperplatform.org/platform-orchestrators/), which sits at the core of an [Internal Developer Platform](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/). With Kusion you can enhance self-service developer experience, by giving developers the ability to deploy applications with all dependencies to all environments, with a single application specification - [AppConfiguration](https://www.kusionstack.io/docs/next/concepts/app-configuration).
 
-Inspired by the phrase **Fusion on Kubernetes**, Kusion aims to simplify the process of deploying applications into your infrastructure and helps platform teams standardize the whole deployment process. 
+Inspired by the phrase **Fusion on Kubernetes**, Kusion aims to simplify the process of deploying applications into your infrastructure and helps platform teams standardize the whole deployment process.
 
 ## Kuperator
 
@@ -33,3 +33,7 @@ We regularly post about technical practice and thinking we have solved and provi
 ## KusionStack Community Code of Conduct
 
 KusionStack follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
+
+## Security
+
+KusionStack takes security seriously. If you discover a security vulnerability in any of our projects, please refer to our [Security Policy](https://github.com/KusionStack/.github/blob/main/SECURITY.md) for reporting guidelines. We will respond to all reports as quickly as possible.
